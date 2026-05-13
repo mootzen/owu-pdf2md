@@ -46,7 +46,7 @@ LOG_FILE        = BASE_DIR / "ingest.log"
 
 OPENWEBUI_URL   = "http://127.0.0.1:3000"
 API_KEY         = os.getenv("OPENWEBUI_API_KEY", "YOUR_API_KEY_HERE")
-KNOWLEDGE_NAME  = "FSO Wissensdatenbank"
+KNOWLEDGE_NAME  = "Knowledgebase"
 KNOWLEDGE_DESC  = "Interne Dokumentation und Verfahrensanweisungen"
 
 # Tuning
