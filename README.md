@@ -30,7 +30,7 @@ Edit these values at the top of `ingest.py`:
 |---|---|---|
 | `OPENWEBUI_URL` | `http://127.0.0.1:3000` | Open WebUI address |
 | `API_KEY` | - | Set via env var (see below) |
-| `KNOWLEDGE_NAME` | `FSO Wissensdatenbank` | Name of the knowledge base |
+| `KNOWLEDGE_NAME` | `Knowledgebase` | Name of the knowledge base |
 | `CONVERT_WORKERS` | `4` | Parallel conversion threads |
 | `BATCH_SIZE` | `20` | Files per upload batch |
 | `MAX_FILE_MB` | `50` | Skip files larger than this |
